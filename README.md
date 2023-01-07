@@ -1,1 +1,3 @@
-# YoutubeindustryReserch
+# Youtube研究プログラム
+
+## いいねとコメントで測る伸び率
